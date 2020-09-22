@@ -1,0 +1,295 @@
+*{ 
+    font-family: 'Quicksand', sans-serif;
+    margin: 0px; 
+}
+.navbar p {
+    font-size: 30px;
+    color: #DB9A64;
+    margin-top: 15px;
+}
+.collapse {
+    margin-left: 300px;
+}
+.nav-item {
+    padding: 0px 25px;
+}
+.btn-outline-dark {
+    border: 1px solid #DB9A64;
+    padding: 10px 45px;
+    border-radius: 0px;
+    font-weight: bolder;
+}
+.btn-outline-dark:hover {
+    background-color: #3B2930;
+    border: 1px solid #DB9A64;
+}
+.row {
+    height: 600px;
+    background-color: #311E25;
+    margin: 0px;
+}
+.presentacion {
+    margin-top: 200px;
+    padding-top: 60px;
+    width: 300px;
+    margin-left: 300px;
+}
+.presentacion p {
+    text-align: center;
+    font-size: 20px;
+}
+h1 {
+    text-align: center; 
+}
+.miFoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rounded-circle {
+    width: 400px;
+    height: 350px;
+    border: 2px solid #3B2930;
+    margin-top: 50px;
+    margin-right: 200px;
+    
+}
+.seccion1 {
+    height: 300px;
+    font-size: 15px;
+}
+.sobremi {
+    width: 60%;
+    margin-left: 80px;
+    text-align: center;
+}
+.objetivo {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #6B4B40;
+    box-shadow: 0px 5px 5px #6B4B40;   
+    margin-top: 20px;
+}
+.estudios {
+    color: #DB9A64;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seccion2 {
+    color: #fff;
+    height: 350px;
+}
+.seccion2 p {
+    text-align: center;
+    font-size: 14px;
+}
+.bordes {
+    border: 1px solid #6B4B40;
+    padding: 15px;
+    display: block;
+    width: 80%;
+    margin-left: 60px;
+    background-color: #3B2930;
+}
+.titulos {
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.bordes:hover {
+    background-color: #311E25;
+}
+.logotrab {
+    display: flex;
+    justify-content: center;
+}
+.seccionClara {
+    background-color: #3B2930;
+    padding-bottom: 50px;
+}
+.works {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.card {
+    width: 350px;
+    height: 450px;
+    background-color: #311E25;
+    color: #fff;
+    border: 1px solid #6B4B40;
+    padding: 10px;
+}
+.card p {
+    font-size: 13px;
+}
+.tucciweb {
+    background-color: #3B2930;
+    color: #fff;
+    border: 1px solid #6B4B40;
+}
+.tucciweb:hover {
+    background-color: #311E25;
+    color: #DB9A64;
+}
+.tareas {
+    width: 350px;
+    height: 450px;
+    color: #fff;
+    font-size: 14px;
+    padding-top: 50px;
+}
+.tareasr {
+    color: #DB9A64;
+    width: 180px;
+    border-bottom: 2px solid #DB9A64;
+    margin-bottom: 20px;
+}
+.listado {
+    background-color: #DB9A64;
+}
+.referencias {
+    width: 300px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.referenciasbt {
+    background-color: #311E25;
+    color: #DB9A64;
+    border: 1px solid #6B4B40;
+    border-radius: 0px;
+}
+.referenciasbt:hover {
+    background-color: #3B2930;
+    color: #DB9A64;
+}
+.dropdown-menu {
+    background-color: #311E25;
+    border: 1px solid #6B4B40;
+    border-radius: 0px;
+}
+.dropdown-item-text {
+    color: #fff;
+    font-size: 14px;
+}
+.more {
+    color: #DB9A64;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 50px 0px 30px 80px;
+    margin-bottom: 100px;
+    border-bottom: 1px solid #DB9A64;
+}
+.compet {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.ingles {
+    width: 300px;
+}
+.ingles p {
+    color: #fff;
+    font-size: 14px;
+}
+.competencias {
+    display: inline-flex;
+}
+.listado1 {
+    text-align: right;
+}
+.listado2 {
+    margin: 40px 30px 0px 30px;
+}
+.far {
+    font-size: 30px;
+    color: #DB9A64;
+    padding: 0px 20px 0px 20px;
+}
+.listado3 {
+    text-align: left;
+}
+.informatica {
+    display: inline-flex;
+    height: 350px;
+    padding-top: 50px;
+}
+.informatica p {
+    color: #fff;   
+    padding-left: 100px; 
+    font-style: italic;
+}
+.fotoCompu {
+    width: 350px;
+    margin-left: 250px;
+    box-shadow: 0px 5px 5px #6B4B40;
+}
+.office {
+    width: 400px;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.fas {
+    font-size: 20px;
+    padding: 10px;
+    color:#DB9A64;
+}
+.redes {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fab {
+    font-size: 30px;
+    margin: 15px;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contactame {
+    display: inline-flex;
+    color: #fff;
+}
+.botonModal {
+    background-color: #3B2930;
+    color: #DB9A64;
+    border-radius: 0px;
+    border: 1px solid #DB9A64;
+    margin-left: 16px;
+}
+.botonModal:hover {
+    background-color: #311E25;
+    color: #DB9A64
+}
+.modal-header {
+    background-color: #311E25;
+    color: #DB9A64;
+}
+.modal-body {
+    background-color: #fff;
+    color: #DB9A64;
+}
+.campos {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #311E25;
+}
+.modal-footer {
+    background-color: #311E25;
+    color: #DB9A64;
+}
